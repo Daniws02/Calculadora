@@ -12,5 +12,3 @@ elif(Operacao == 3):
     print(a*b)
 elif(Operacao == 4):
     print(a/b)
-    
-
